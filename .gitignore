@@ -1,0 +1,5 @@
+.venv/
+movies_dict.pkl
+similarity.pkl
+archive/
+archive.zip

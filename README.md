@@ -12,20 +12,22 @@ This Movie Recommender App is designed by Nishtha Garg to recommend top 5 simila
 ## Installation
 1. Clone the repository:
    ```
-   https://github.com/nishi90297/movies-recommender-system.git
+   git clone https://github.com/nishi90297/movies-recommender-system.git
 
 2. Navigate to the project directory:
    ```
    cd movies-recommender-system
-3. Create and activate a vitual env
-   ```
+3. Create and activate a vitual env 
+    ```
     python3 -m venv .venv
     source .venv/bin/activate
 4. Install the required dependencies:
    ```
    pip install -r requirements.txt
 5. Download and unzip the [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) to train your own model.
-
+6. Run model : 
+   ```
+   python3 Movie_Recommender.py
 
 ## Usage
 1. To run the app, use the following command:
