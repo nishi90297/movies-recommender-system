@@ -17,7 +17,8 @@ This Movie Recommender App is designed by Nishtha Garg to recommend top 5 simila
 2. Navigate to the project directory:
    ```
    cd movies-recommender-system
-3. Create and activate a vitual env 
+3. Create and activate a vitual env
+   ```
     python3 -m venv .venv
     source .venv/bin/activate
 4. Install the required dependencies:
